@@ -39,5 +39,36 @@ To further enhance the application, future recommendations include improvements 
 - [PythonAnywhere Hosting Service](https://www.pythonanywhere.com/user/lol1221/)
 - [Google Maps Android SDK Documentation](https://developers.google.com/maps/documentation/android-sdk/maps-compose)
 
+## Screenshots and Report
+### Report
+You can view the detailed project report [here](ABHISHEK_PPT.pdf).
+
+### Screenshots
+Here are some screenshots from the application:
+
+#### Manual Location Input
+![Manual Location Input](manual_input.jpeg)
+
+#### Error When No Bus is Around
+![Error When No Bus is Around](error_when_no_bus_around.jpeg)
+
+#### WhatsApp Image
+![WhatsApp Image](WhatsApp%20Image%202024-05-14%20at%202.12.11%20AM.jpeg)
+
+#### Map Screen
+![Map Screen](Map_screen.png)
+
+#### Error Handling
+![Error Handling](ERROR%20HANDLING.png)
+
+#### Error
+![Error](ERROR.png)
+
+#### Loading Screen
+![Loading Screen](Loadingscreen.png)
+
+#### Main Screen
+![Main Screen](MainScreen.png)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
